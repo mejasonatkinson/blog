@@ -1,4 +1,4 @@
-baseURL = 'http://jasonatkinson.co.uk'
+baseURL = 'https://jasonatkinson.co.uk'
 languageCode = 'en-gb'
 title = 'Learning, Development & Diversity'
 theme = 'PaperMod'
