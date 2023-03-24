@@ -1,7 +1,7 @@
 ---
 title: "Why Am I Starting a Blog..."
 date: 2023-03-24T19:34:33Z
-draft: true
+draft: false
 ---
 
 For my first blog post, I thought I would start with the most pressing of questions; why am I starting a blog? 
