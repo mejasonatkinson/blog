@@ -16,7 +16,7 @@ Since leaving university, my career has taken me in many twists and turns, but o
 
 Being a web developer also adds to my need to understand how we learn, why we learn and why we forget, as the industry rapidly changes. 
 
-As such, I feel that I should be recording my thoughts on these and more wider ranging subjects. Advocating for learning in the tech and development communities for inclusion & iversity as a way to just organise my thoughts. 
+As such, I feel that I should be recording my thoughts on these and more wider ranging subjects. Advocating for learning in the tech and development communities for inclusion & diversity as a way to just organise my thoughts. 
 
 ---
 
