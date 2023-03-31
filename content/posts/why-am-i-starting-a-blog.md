@@ -1,6 +1,6 @@
 ---
 title: "Why Am I Starting a Blog..."
-date: 2023-03-24T19:34:33Z
+date: 2023-03-24T19:30:00Z
 draft: false
 ---
 
@@ -14,10 +14,16 @@ I am starting this blog for a few reasons but first I want to acknowledge that w
 
 Since leaving university, my career has taken me in many twists and turns, but one thing which has been consistent is the fact that whatever I do I strive to learn and improve. This has led me to question how much dyslexia and dyspraxia plays a role in my learning as someone who is neurodiverse. 
 
-Being a web developer also adds to my need to understand how we learn, why we learn and why we forget, as the industry rapidly changes. 
+Being a web developer also adds to my need to understand how we learn, why we learn and why we forget, as the industry rapidly changes around us.
 
-As such, I feel that I should be recording my thoughts on these and more wider ranging subjects. Advocating for learning in the tech and development communities for inclusion & diversity as a way to just organise my thoughts. 
+As such, I feel that I should be recording my thoughts on these and more wider ranging subjects. Advocating for learning in the tech and development communities for inclusion & diversity as a way to help and organise my thoughts on the topic.
+
+So, what do you expect to see posted here? 
+
+I have already started to plan some content, to give you an idea, the first couple of posts will be around, neurodiversity and how that effects our learning. After setting some ground work, and hopefully when I feel more comfortable I will share some stories, and possibly some learn with me style posts. 
+
+Hopefully you like what I'm planning, and I look forward to seeing you along the road.   
 
 ---
 
-“The first step towards getting somewhere is to decide you’re not going to stay where you are.” - JP Morgan
+"A journey of a thousand miles begins with a single step" - Quote of the week
