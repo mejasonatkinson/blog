@@ -23,13 +23,9 @@ There are many different types of neurodiversity, but as a basic guide, below is
 
 I want to investigate and write about all of these and more, at some point. It's a huge topic, which really needs to be broken down into many pieces to fully explore not just the neurological impact but also there psychological and behavioural impact.
 
-One of the above Items I want to quickly expand on, is what “Acquired Neurodiversity” is?
+One of the above items I want to quickly expand on, is what "Acquired Neurodiversity" is?
 
-This covers a huge range of neurological conditions. 
-
-Neurodegenerative disorders, such as Parkinson’s disease, Cerebral Palsy and Alzheimer’s disease.
-
-Strokes, and other types of brain damage can cause the development of DCD / Dyspraxia.
+This covers a huge range of neurological conditions including but not limited to: Neurodegenerative disorders, such as Parkinson’s disease, Cerebral Palsy and Alzheimer’s disease. As well as Neurodiverse conditions acquired via Strokes, and other types of brain damage.
 
 ---
 
@@ -41,9 +37,9 @@ Strokes, and other types of brain damage can cause the development of DCD / Dysp
 ### Resources:
 
 -	[The World Needs Neurodiversity; Unuasual Times Call For Unusual Thinking - Forbes](https://www.forbes.com/sites/drnancydoyle/2020/03/24/the-world-needs-neurodiversity-unusual-times-call-for-unusual-thinking/?sh=7fe939386db2)
--	[DCD Dyspraxia in Adults - NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/)
+-	[DCD, Dyspraxia in Adults - NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/)
 -	[Neurology Definition – Dictionary.com](https://www.dictionary.com/browse/neurology)
 -	[Diversity Definition – Dictionary.com](https://www.dictionary.com/browse/diversity)
 
-**I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post**
+*I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post*
 
