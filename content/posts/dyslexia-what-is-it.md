@@ -8,7 +8,7 @@ This is my second attempt of writing this. I stopped and deleted my first attemp
 
 So, in basic terms, what is dyslexia… 
 
-If you look up the origin of the word, according to [unesco](https://mgiep.unesco.org/article/about-dyslexia)
+If you look up the origin of the word, according to [UNESCO](https://mgiep.unesco.org/article/about-dyslexia)
 
 The word 'dyslexia' is derived from the Latin word 'dys', which translates to 'difficult', and the Greek word 'lexia', which translates to 'words'; it literally means, “difficulty with words”.
 
@@ -29,7 +29,7 @@ Some of the questions I have, straight away are...
 - How does learning/intelligence play into this?
 - What adverse consequences, does being seen as dyslexic have on people’s psychology and behaviour? 
 
-... Just to list a few. Next week I want to tackle How is reading, writing, and spelling effected. and how this plays a role in the way we learn today.
+... Just to list a few. Next week I want to tackle, how is reading, writing, and spelling effected. and how this plays a role in the way we learn today.
 
 ---
 
@@ -40,7 +40,7 @@ Some of the questions I have, straight away are...
 
 ### Resources:
 
-- [About Dyslexia - unesco](https://mgiep.unesco.org/article/about-dyslexia)
+- [About Dyslexia - UNESCO](https://mgiep.unesco.org/article/about-dyslexia)
 - [Dyslexia - NHS]( https://www.nhs.uk/conditions/dyslexia/)
 
 *I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post*
