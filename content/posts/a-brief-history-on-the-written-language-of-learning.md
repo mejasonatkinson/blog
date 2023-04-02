@@ -28,12 +28,11 @@ I personally think that most of these questions can be answered at least in a ve
 
 I feel like there is also something to be said about how much we learned historically compared to how much we are expected to learn today. Whereas in the past you could be a master in one thing. In the modern world, you are expected to have a 'degree' of mastery in 8 to 11 different subjects before you are even 16 years old! With tests and exams, there is a culture of JIT (Just-In-Time) learning, cramming/revising.
 
-Overall, if I had to summarize my thoughts, the world has seen a culture shift in what is seen as important, mainly in part to the accessibility to information. The problem is that the accessibility to the information, is not accessible for all at the same degree for everyone.
+Overall, if I had to summarize my thoughts, the world has seen a culture shift in what is seen as important, mainly in part to the accessibility to information. The problem is that the accessibility to the information, is not accessible for all at the same degree, for everyone.
 
 ---
 
-'Easy reading is damn hard writing'
-- Quote of the week
+"Easy reading is damn hard writing" - Quote of the week
 
 ---
 

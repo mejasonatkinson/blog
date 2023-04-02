@@ -33,8 +33,7 @@ Some of the questions I have, straight away are...
 
 ---
 
-"I would rather have questions that can't be answered than answers that can't be questioned"
-- Quote of the week
+"I would rather have questions that can't be answered than answers that can't be questioned" - Quote of the week
 
 ---
 
