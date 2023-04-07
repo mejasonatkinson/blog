@@ -1,6 +1,6 @@
 ---
 title: "Dyslexia, What Is It?"
-date: 2023-04-07T19:30:00+01:00
+date: 2023-04-07T19:00:00+01:00
 draft: false
 ---
 
@@ -29,7 +29,7 @@ Some of the questions I have, straight away are...
 - How does learning/intelligence play into this?
 - What adverse consequences, does being seen as dyslexic have on people’s psychology and behaviour? 
 
-... Just to list a few. Next week I want to tackle, how is reading, writing, and spelling effected. and how this plays a role in the way we learn today.
+... Just to list a few. Next week I want to tackle, how is reading, writing, and spelling effected. and how this plays a role in the way we (dyslexics) learn.
 
 ---
 
