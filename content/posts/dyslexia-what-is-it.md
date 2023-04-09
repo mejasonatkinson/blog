@@ -29,7 +29,9 @@ Some of the questions I have, straight away are...
 - How does learning/intelligence play into this?
 - What adverse consequences, does being seen as dyslexic have on people’s psychology and behaviour? 
 
-... Just to list a few. Next week I want to tackle, how is reading, writing, and spelling effected. and how this plays a role in the way we (dyslexics) learn.
+... Just to list a few. 
+
+Next week I want to tackle, how is reading, writing, and spelling effected. and how this plays a role in the way we (dyslexics) learn.
 
 ---
 
