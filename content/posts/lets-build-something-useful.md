@@ -4,15 +4,15 @@ date: 2023-04-21T13:00:00+01:00
 draft: false
 ---
 
-So far, I have talked about what neurodiversity is, what dyslexia is and a bit of a side journey into my thoughts on how the english alphabetical language plays a role in learning. And why that makes it hard for people with dyslexia to learn.
+So far, I have talked about what neurodiversity is, what dyslexia is and a bit of a side journey into my thoughts on how the english alphabetical language plays a role in learning and why that makes it hard for people with dyslexia to learn.
 
 What can we do about it?
 
 One thing which is often brought up is screen readers.
 
-This is normally done via some sort of screen reading software. Which would need to be installed or activated to work but I found a different solution! While scrolling through twitter, I discovered this tweet: [Technically it’s a web api!](https://twitter.com/trunarla/status/1597641480520503296) by [mewtru](https://twitter.com/trunarla). JavaScript has a built-in Web Speech API; part of which is called `SpeechSynthesisUtterance` which allows anyone with some HTML and JavaScript knowledge to create a player that can read a selected piece of text.
+This is normally done via some sort of screen reading software. Which would need to be installed or activated to work but I found a different solution! While scrolling through twitter I saw this tweet: [Technically it’s a web api!](https://twitter.com/trunarla/status/1597641480520503296) by [mewtru](https://twitter.com/trunarla). JavaScript has a built-in Web Speech API; part of which is called `SpeechSynthesisUtterance` which allows anyone with some HTML and JavaScript knowledge to create a player that can read a selected piece of text.
 
-How does this look?
+How does this work?
 
 First, we start with the HTML. 
 
@@ -45,7 +45,7 @@ Parameters are sometimes required to make the code within the function they are 
 
 The next 3 lines is a built in function, with another function inside of it, which is only run, when the first function is run.
 
-The first function `play.addEventListener(“click”, )` is a built in function that is listening for some one to click on what is defined before the first dot(`.`) in this case `play` which we set to the button in the HTML.
+The first function `play.addEventListener("click", )` is a built in function that is listening for some one to click on what is defined before the first dot(`.`) in this case `play` which we set to the button in the HTML.
 
 The second function, is anonymous and its only purpose is to contain the code within it.
 
@@ -64,10 +64,10 @@ It is worth saying there is a lot you can do and explore with this Web API but a
 I have also coded a more feature rich version of this which you can find on my [codepen](https://codepen.io/mejasonatkinson/pen/poxRyez) as well as a selection of other variants I have created.
 
 - [Simple, Speech Synthesiser](https://codepen.io/mejasonatkinson/pen/MWPJybW) this is the version being used on this blog.
-- [Multi-Input, Simple, Speech Sythesiser (1-to-All)](https://codepen.io/mejasonatkinson/pen/oNaBxME)
-- [Multi-Input, Simple, Speech Sythesiser (1-for-Each)](https://codepen.io/mejasonatkinson/pen/GRYrZXw)
+- [Multi-Input, Simple, Speech Synthesiser (1-to-All)](https://codepen.io/mejasonatkinson/pen/oNaBxME)
+- [Multi-Input, Simple, Speech Synthesiser (1-for-Each)](https://codepen.io/mejasonatkinson/pen/GRYrZXw)
 - [List of Title Speech Synthesiser Voices](https://codepen.io/mejasonatkinson/pen/WNaRpKy)
-- A Web Component version is in the works. 😊 
+- A Web Component version is in the works.
 
 I hope you found this useful. 😊 
 
