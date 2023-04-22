@@ -39,6 +39,3 @@ This covers a huge range of neurological conditions including but not limited to
 -	[DCD, Dyspraxia in Adults - NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia-in-adults/)
 -	[Neurology Definition – Dictionary.com](https://www.dictionary.com/browse/neurology)
 -	[Diversity Definition – Dictionary.com](https://www.dictionary.com/browse/diversity)
-
-*I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post*
-

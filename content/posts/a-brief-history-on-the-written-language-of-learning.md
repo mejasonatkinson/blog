@@ -44,5 +44,3 @@ Overall, if I had to summarize my thoughts, the world has seen a culture shift i
 - [Latin script; Wikipedia](https://en.wikipedia.org/wiki/Latin_script)
 - [Can Dyslexia Change in Other Languages; BBC](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages)
 - [Dyslexia, 8 Basic Abilities; Dyslexia.com](https://www.dyslexia.com/about-dyslexia/dyslexic-talents/dyslexia-8-basic-abilities/)
-
-*I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post*

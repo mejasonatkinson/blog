@@ -27,3 +27,5 @@ Hopefully you like what I'm planning, and I look forward to seeing you along the
 ---
 
 "A journey of a thousand miles begins with a single step" - Quote of the week
+
+---

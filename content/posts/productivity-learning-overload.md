@@ -74,8 +74,6 @@ Quote of the week - "We cannot solve our problems with the same thinking we used
 - [Web comic from workchronicles.com](https://img.ifunny.co/images/4abf598030a5c9f962e70b437f9ddd628ca09d1720efebb6c083f3cbcb5f823a_1.webp)
 - [Productivity; Wikipedia](https://en.wikipedia.org/wiki/Productivity)
 
-*I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update the post and make clear the changes made*
-
 <!-- LinkedIn -->
 
 <!-- Twitter -->

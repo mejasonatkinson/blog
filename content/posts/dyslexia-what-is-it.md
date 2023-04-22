@@ -43,5 +43,3 @@ Next week I want to tackle, how is reading, writing, and spelling effected. and 
 
 - [About Dyslexia - UNESCO](https://mgiep.unesco.org/article/about-dyslexia)
 - [Dyslexia - NHS]( https://www.nhs.uk/conditions/dyslexia/)
-
-*I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post*

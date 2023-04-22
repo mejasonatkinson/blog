@@ -85,8 +85,6 @@ Quote of the week - "Coding like poetry should be short and concise"
 - [SpeechSynthesisUtterance mdn web docs](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
 - [Experimenting With speechSynthesis](https://www.smashingmagazine.com/2017/02/experimenting-with-speechsynthesis/)
 
-*I have tried to research this post the best I can. IF there is anything wrong, please let me know and I will update and make clear the changes made to this post*
-
 <!-- 
 LinkedIn
 Let’s Build Something Useful! Building a Speech synthesiser, using a JavaScript web API. 
