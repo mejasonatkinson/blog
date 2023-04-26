@@ -4,8 +4,6 @@ date: 2023-05-19T13:00:00+01:00
 draft: true
 ---
 
-Next post to work on...
-
 Simlar to Dyslexia, I have alot to say about Dyspraxia, but lets start with the basics.
 
 What is Dyspraxia?
@@ -40,7 +38,7 @@ Infants Symptoms include:
 
 - Delays in reaching normal developmental milesontes (rolling, sitting, crawling, walking)
 - Unusual body postures
-- Difficulty playing with toys, that require fine-motor skills.
+- Difficulty playing with toys, that require **fine-motor skills**.
 - difficulty learning to eat with cutlery
 
 Older Children Symptoms include:
@@ -59,25 +57,29 @@ Older Children Symptoms include:
         - Tying Shoelaces
     - keeping still
 
-They might also appear awkward and clumsy, bumping into objects, drop things, fall over; but these are not necessarily signs of DCD.
+Being generally awkward and clumsy, bumping into objects, drop things, fall over are other **possible** signs.
 
 Additional problems include:
 
-- concentration
-- difficulty following instructions and copying information
-- difficulty organising
-- slow to pick up new skills
-- difficulty making friends
-- behaviour problems
-- low self-esteem
+- Concentration
+- Difficulty following instructions and copying information
+- Difficulty organising
+- Slow to pick up new skills
+- Difficulty making friends
+- Behaviour problems
+- Low self-esteem
 
 Overall not a positive list of things.
 
 I also think this is not even a complete list.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder), talks about alot of the topics covered above but also adds to the list by talking about developmental verbal dyspraxia (DVD) and other associated disorders and secondary consequences. It is worth a ready if you have time.
+[Wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder), talks about alot of the topics covered above breaking it down into gross and fine motor skills, memory, sensory, hypotonia, developmental verbal dyspraxia (DVD) and other associated disorders and secondary consequences. It is worth a ready if you have time.
 
-There is alot to unpack here and go into more detail about but for a first entry into the topic, I think this an overall good outline of what I beleive dyspraxia is or can be.
+There is alot to unpack here and go into more detail about but for a first entry into the topic, I think this is an overall good outline of what I beleive dyspraxia is or can be.
+
+It is very easy to say that having or being dyspraxic is a negative thing. But it is important to say that we can build systems to manage all of these issues and most of the time you wouldn't even notice these problems unless you watch us closely.
+
+<!-- can dyspraxia be a super power? -->
 
 ---
 
