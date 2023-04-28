@@ -57,6 +57,8 @@ Quote of the week - "Everybody is a genius. But if you judge a fish by its abili
 - [Dyslexia Symptoms; NHS](https://www.nhs.uk/conditions/dyslexia/symptoms/)
 - [DCD Symptoms; NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/symptoms/)
 
+<!-- next -->
+
 <!-- 
 LinkedIn
 It is sometimes said that comparison is the thief of joy. So why do we do it? What is the point of social comparison? And how does that play a role in being neurodiverse. 
