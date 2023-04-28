@@ -1,7 +1,7 @@
 ---
 title: "The OG, Social Comparers"
-date: 2023-04-28T13:00:00+01:00
-draft: true
+date: 2023-04-28T12:00:00+01:00
+draft: false
 ---
 
 In the last 2 decades, there has been an increase in awareness of social comparison or to give its proper name social comparison theory. This is due, in no small part because of social media platforms. These platforms make it easier than ever to compare ourselves to the "ideal", this is mostly always done in what is called a upward comparison.
