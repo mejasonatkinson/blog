@@ -35,7 +35,7 @@ Next week I want to tackle, how is reading, writing, and spelling effected. and 
 
 ---
 
-"I would rather have questions that can't be answered than answers that can't be questioned" - Quote of the week
+"I would rather have questions that can't be answered than answers that can't be questioned"
 
 ---
 

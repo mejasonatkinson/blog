@@ -18,7 +18,8 @@ What is the difference between learning and studying?
 
 This implies that studying is the process, action or journey you take to learn.
 
-The rest of this blog post is going to be my notes on the lecture with my thoughts, where I feel required or think I can add value.
+The rest of this blog post is going to be my notes on the lecture with my thoughts where I feel required or think I can add value.
+
 
 
 
@@ -26,7 +27,7 @@ The rest of this blog post is going to be my notes on the lecture with my though
 
 ---
 
-Quote of the week - ""
+""
 
 ---
 

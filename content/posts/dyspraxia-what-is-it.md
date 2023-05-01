@@ -83,7 +83,7 @@ It is very easy to say that having or being dyspraxic is a negative thing. But i
 
 ---
 
-Quote of the week - "I'm not clumsy. It's just the floor hates me, the tables and charis are bullies & the wall gets in the way."
+"I'm not clumsy. It's just the floor hates me, the tables and charis are bullies & the wall gets in the way."
 
 ---
 

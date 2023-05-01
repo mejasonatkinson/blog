@@ -6,9 +6,11 @@ draft: true
 
 `hugo server -D -F`
 
+`hugo new posts/my-first-post.md`
+
 ---
 
-Quote of the week - ""
+""
 
 ---
 

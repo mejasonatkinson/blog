@@ -29,7 +29,7 @@ This covers a huge range of neurological conditions including but not limited to
 
 ---
 
-"I tried being normal once; it was the most boring two minutes of my life." - Quote of the week
+"I tried being normal once; it was the most boring two minutes of my life."
 
 ---
 

@@ -32,7 +32,7 @@ Overall, if I had to summarize my thoughts, the world has seen a culture shift i
 
 ---
 
-"Easy reading is damn hard writing" - Quote of the week
+"Easy reading is damn hard writing"
 
 ---
 

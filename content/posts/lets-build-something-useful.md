@@ -75,7 +75,7 @@ I hope you found this useful. 😊
 
 ---
 
-Quote of the week - "Coding like poetry should be short and concise"
+"Coding like poetry should be short and concise"
 
 ---
 
