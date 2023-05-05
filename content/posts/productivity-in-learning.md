@@ -1,7 +1,7 @@
 ---
 title: "Productivity in Learning"
 date: 2023-05-05T13:00:00+01:00
-draft: true
+draft: false
 ---
 
 I recently saw this comic, where a character is sitting at a computer talking to them self, saying how busy they are then another character comes along and asks "But are you productive?" and the first character replies "great. Now I’m busy and miserable". 
