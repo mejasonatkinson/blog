@@ -28,7 +28,9 @@ A quick google search and a look at the NHS’s conditions page about [dyslexia 
 
 We don’t even have to social compare ourselves. Other people do it for us, but even without them we can see and understand that something is different about us? But we try to strive to an "ideal" which is beyond our reach and doing so, effecting our self-esteem. By early adulthood we have already developed an avoidance mechanism.
 
-This could easily lead to just thinking of ourselves as stupid. The only reason I don’t think this is because of a single line which is often repeated. “Intelligence isn’t affected”. This allowed me to have a growth mindset (however my take on the subject, is a little bit different than most; I might talk about it in its own post, later). This has allowed me to look at upwards comparison, at least in **some instances** as a motivator for self-improvement. 
+This could easily lead to just thinking of ourselves as stupid.
+
+Luckily however I have some how managed to obtain a growth mindset (however my take on the subject, is a little bit different than most; I might talk about it in its own post, later). This has allowed me to look at upwards comparison, at least in **some instances** as a motivator for self-improvement. 
 
 Another quick google search and a look at the NHS’s conditions page about [dyspraxia](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/symptoms/), is not any better; you will find many hints at the fact that we will try and avoid joining in or taking part in games or activities as it will highlight how different we are.
 
@@ -40,7 +42,7 @@ Normally, when the topic of dyslexia or dyspraxia is brought up a list of famous
 
 Winston Churchill, Albert Einstein, Richard Branson, Steve Jobs, Orlando Bloom, Tom Cruise, Whoopi Goldberg, Steven Spielberg, Leonardo Da Vinci, Mozart, George Washington, Daniel Radcliffe, Cara Delevingne, David Bailey, Bill Gates, Isaac Newton, Pablo Picasso, Robin Williams, Stephen Fry, Eddie Izzard, Cher, Benjamin Franklin, and Thomas Edison.
 
-Most of the time, these people appear on different lists for dyslexia, dyspraxia or even dyscalculia but whether they fall under any of these neurological terms, is at best a guess.  Some have spoken about the troubles they face, which could lead us to presume that they fall under the definition of one of the terms. But that still means very little because you can be severely dyslexic, or mildly dyslexic, or anywhere in between. Knowing that someone might have dyslexia, doesn’t at all mean that you can achieve their level of success and there are possibly billions of other variables to consider such as there upbring or outlook on life. You might have also noticed that this list of people with 1 or 2 exceptions is not very diverse, and it could be asked what role did that play into their success?
+Most of the time, these people appear on different lists for dyslexia, dyspraxia or even dyscalculia but whether they fall under any of these neurological terms, is at best a guess.  Some have spoken about the troubles they face, which could lead us to presume that they fall under the definition of one of the terms. But that still means very little because you can be severely dyslexic, or mildly dyslexic, or anywhere in between. Knowing that someone might have dyslexia, doesn’t at all mean that you can achieve their level of success and there are possibly billions of other variables to consider such as there upbring or outlook on life. You might have also noticed that this list of people with 1 or 2 exceptions is not very ethically diverse, and it could be asked what role did that play into their success?
 
 Clearly, I have a lot to say on the matter. But to conclude this conversation, I want to just openily ask, What can I do to make social comparison, a positive experience? Instead of what I currently do which is try and avoid it?
 

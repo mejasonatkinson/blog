@@ -18,7 +18,7 @@ Some one once, described dyslexia as reading words as images. Which makes a lot 
 
 One of dyslexia’s positive traits, is the ability to identify similarities that others may not see. But this is exactly what makes it harder for us to read; as we might see more, or mis-interpret what is written. 
 
-The best example of this I can give you are reCAPTCHA’s. One of the problems with teaching a computer what a certain thing looks like, for example a bike. A bike can look very different from each other, depending on the type or shape or colour etc. but humans just know it’s a bike. With enough time a computer might find bikes anywhere, in a cloud or a puddle. This over analysing makes reading and writing a much slower process for dyslexics as we are seeing letter and words where they might not be and confuse similar shaped letters and words.
+The best example of this I can give you are reCAPTCHA’s. One of the problems with teaching a computer what a certain thing looks like, for example a bike. A bike can look very different from each other, depending on the type or shape or colour etc. but humans just know it’s a bike. With enough time a computer might find bikes anywhere, in a cloud or a puddle. This over analysing makes reading and writing a much slower process for dyslexics as we are seeing letters and words where they might not be and confuse similar shaped letters and words.
 
 So, what can we do about it? How can people like me learn effectively in a culture that uses a language system that is working against how our brains work? What type of learner am I? 
 
@@ -26,7 +26,7 @@ All good questions.
 
 I personally think that most of these questions can be answered at least in a very basic way by examining how humans where learning before books and written instructions became the dominant method of learning. 
 
-I feel like there is also something to be said about how much we learned historically compared to how much we are expected to learn today. Whereas in the past you could be a master in one thing. In the modern world, you are expected to have a 'degree' of mastery in 8 to 11 different subjects before you are even 16 years old! With tests and exams, there is a culture of JIT (Just-In-Time) learning, cramming/revising.
+I feel like there is also something to be said about how much we learned historically compared to how much we are expected to learn today. Whereas in the past you could be a master in one thing. In the modern world, you are expected to have a 'degree' of mastery in 8 to 11 different subjects before you are even 16 years old! With tests and exams, there is a culture of JIT (Just-In-Time) learning, cramming or revising.
 
 Overall, if I had to summarize my thoughts, the world has seen a culture shift in what is seen as important, mainly in part to the accessibility to information. The problem is that the accessibility to the information, is not accessible for all at the same degree, for everyone.
 

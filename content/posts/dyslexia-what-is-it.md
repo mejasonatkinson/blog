@@ -26,7 +26,7 @@ Some of the questions I have, straight away are...
 
 - What is the difference between a difficulty and a disability?
 - How is reading, writing, and spelling effected? 
-- How does learning/intelligence play into this?
+- How does learning or intelligence play into this?
 - What adverse consequences, does being seen as dyslexic have on people’s psychology and behaviour? 
 
 ... Just to list a few. 

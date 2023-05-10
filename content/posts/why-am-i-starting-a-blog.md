@@ -4,9 +4,9 @@ date: 2023-03-24T18:30:00Z
 draft: false
 ---
 
-For my first post, I thought I would start with the most pressing of questions; why am I starting a blog? 
+For my first post, I thought I would start with the most pressing of questions.
 
-I have started many over the past 2 decades, ranging from, tracking my summer holiday project; to keeping a blog as my sketchbook throughout the 3 years of my bachelor’s degree; and even as 30-day mini challenge, where I posted every day for 30 days, just to see if I could.
+I have started many blogs over the past 2 decades, ranging from, tracking my summer holiday project; to keeping a blog as my sketchbook throughout the 3 years of my bachelor’s degree; and even as 30-day mini challenge, where I posted every day for 30 days, just to see if I could.
 
 Each one came to a natural conclusion, and so I stopped. But this time, there is no set end date. 
 
@@ -16,11 +16,11 @@ Since leaving university, my career has taken me in many twists and turns, but o
 
 Being a web developer also adds to my need to understand how we learn, why we learn and why we forget, as the industry rapidly changes around us.
 
-As such, I feel that I should be recording my thoughts on these and more wider ranging subjects. Advocating for learning in the tech and development communities for inclusion & diversity as a way to help and organise my thoughts on the topic.
+As such, I feel that I should be recording my thoughts on this. Advocating for learning in the tech and development communities for inclusion & diversity, as a way to help and organise my thoughts on the topic.
 
 So, what do you expect to see posted here? 
 
-I have already started to plan some content, to give you an idea, the first couple of posts will be around, neurodiversity and how that effects our learning. After setting some ground work, and hopefully when I feel more comfortable I will share some stories, and possibly some learn with me style posts. 
+I have already started to plan some content, to give you an idea, the first couple of posts will be around, neurodiversity and how that effects our learning. After setting some ground work, and when I feel more comfortable I will share some stories, and possibly some learn with me style posts. 
 
 Hopefully you like what I'm planning, and I look forward to seeing you along the road.   
 

@@ -4,7 +4,7 @@ date: 2023-05-05T13:00:00+01:00
 draft: false
 ---
 
-I recently saw this comic, where a character is sitting at a computer talking to them self, saying how busy they are then another character comes along and asks "But are you productive?" and the first character replies "great. Now I’m busy and miserable". 
+I recently saw this comic, where a character is sitting at a computer talking to them self, saying how busy they are. Then another character comes along and asks "But are you productive?" and the first character replies "great! Now I’m busy and miserable". 
 
 This got me thinking. What is it about productivity that makes us miserable, sad, or even frustrated? 
 
@@ -14,11 +14,15 @@ Productivity is the efficiency of production of goods or services expressed by s
 
 So, if I understand this correctly one possible example is: 
 
-A contactor made £3000 in 1 day. 
+A contractor made £3000 in 1 day. 
 
 The measure being £3000 and the service being 1 day.
 
-But does this way of thinking work in all instances? I personally don't think it does. Certain types of goods or services can not be effectivity measured easily, or the measurement variable may protray a false postive.
+But does this way of thinking work in all instances? 
+
+I personally don't think it does. 
+
+Certain types of goods or services can not be effectivity measured easily, or the measurement variable may protray a false positive.
 
 For example: 
 
@@ -36,11 +40,11 @@ GitHub visually counts a developer’s contributions to the main branch of any r
 
 Does this show productivity?
 
-From a employers point of view this could defiantly be scene as such. 
+From a employers point of view this could definitely be scene as such. 
 
 But really all it tells the viewer is that the programmer has commited alot of code and that code has been added to the main branch of the given repos they have contributed too. It tells you nothing about qualify of the code they have written.
 
-Going back to my previous post on social comparsion, this could also lead developers and programmers to feel sad or frustrated effecting there self-esteem and possibly there performance in producing high quality code.
+Going back to my previous post on social comparision, this could also lead developers and programmers to feel sad or frustrated effecting there self-esteem and possibly there performance in producing high quality code.
 
 So how can we effectily messure productivity in this instances? It's difficult to say... But is something I wish to tackle.
 
@@ -56,7 +60,7 @@ The Test being the way we are measure the productivity, this could also be done 
 
 This is how educational institutions have been assessing their students performance since they where created. 
 
-It is a little bit more complicated to do this when you are doing self lead learning. How do you measure productivity in these instances?
+It is a little bit more complicated to do this when you are doing self led learning. How do you measure productivity in these instances?
 
 I guess the best measure in these instances is projects, we can set ourselves to complete. 
 
@@ -95,13 +99,13 @@ The second biggest problem on the road to productivity is the fact that you don'
 
 On the Topic of failure, learning and productivity can also be halted if we struggle to make any progress, this goes back to the concept of doing what is easy. If we are struggling to learn something and have no support system or no obvious incentive, it is very easy to give up.
 
-We have previously talked about how projects are potentially a good method for productivity but another very easy trap to fall intois measuring learning by time. Similar to how lines of code doesn't mean you are productive programmer, time spent learning can also be a bad indicator of productivity. 
+We have previously talked about how projects are potentially a good method for productivity but another very easy trap to fall into is measuring learning by time. Similar to how lines of code doesn't mean you are productive programmer, time spent learning can also be a bad indicator of productivity. 
 
 By trying to learn fast, in an effort to be productive. You might watch, listen, or read things at such a pace, that you are not taking in or understanding the information you are trying to learn. And you are certainly not applying what you have learned, as that takes time too.
 
 We are very good at tricking ourselves into thinking we are productive without really being productive. 
 
-It’s a minefield of a topic which I have given a great deal of throught too.
+It’s a minefield of a topic which I have given a great deal of thought too.
 
 ---
 
