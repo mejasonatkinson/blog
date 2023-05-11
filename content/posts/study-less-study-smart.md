@@ -1,7 +1,7 @@
 ---
 title: "Study Less Study Smart."
 date: 2023-05-12T13:00:00+01:00
-draft: true
+draft: false
 ---
 
 This is a little bit different from my previous posts because I wanted to start tackling the topic of how can we be more productive learners.
