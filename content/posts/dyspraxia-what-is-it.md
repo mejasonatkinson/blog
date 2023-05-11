@@ -1,10 +1,10 @@
 ---
 title: "Dyspraxia, What Is It?"
 date: 2023-05-19T13:00:00+01:00
-draft: true
+draft: false
 ---
 
-Simlar to Dyslexia, I have alot to say about Dyspraxia, but lets start with the basics.
+Simlar to Dyslexia, I have a lot to say about Dyspraxia, but lets start with the basics.
 
 What is Dyspraxia?
 
@@ -12,9 +12,9 @@ If you look up the origin of the word, dyspraxia according to [UNESCO](https://m
 
 The word 'dyspraxia' is derived from the Greek word 'duspraxia'. 
 
-'Praxis' means 'to act'. 
-
 'Dys' means 'impaired', 'ill' or 'abnormal'. 
+
+'Praxis' means 'to act'. 
 
 So the literal meaning of dyspraxia is 'ill-doing' or 'abnormal act'.
 
@@ -26,7 +26,7 @@ This in itself is confusing? because if you look at when I defined [dyslexia](ht
 
 Overall I am confused what Dyspraxia even means, this might be why it is also now refered to as DCD.
 
-DCD stands for Developmental co-ordination disorder and comes with the added bonus that I don't have to know Greek to know what that means.
+DCD stands for Developmental co-ordination disorder and comes with the added bonus that I don't have to know Greek to know what that means. 😂
 
 What comes to mind when you think about co-ordination?
 
@@ -35,55 +35,31 @@ It covers alot more than you might think.
 [NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/symptoms/) List Symptoms, by developmental age.
 
 Infants Symptoms include:
-
-- Delays in reaching normal developmental milesontes (rolling, sitting, crawling, walking)
-- Unusual body postures
-- Difficulty playing with toys, that require **fine-motor skills**.
-- difficulty learning to eat with cutlery
+- Delays in reaching normal developmental milestones (rolling, sitting, crawling, walking)
+- Difficulty playing with toys or eat with cutlery that require **fine-motor skills**.
 
 Older Children Symptoms include:
+- Difficulty with activities and keeping still.
 
-- difficulty with activities, such as:
-    - Hopping 
-    - Jumping
-    - Running
-    - Walking up or down stairs
-    - Catching or kicking a ball
-    - Writing
-    - Drawing
-    - Using scissors
-    - Dressing
-        - Doing up buttons
-        - Tying Shoelaces
-    - keeping still
+Being generally awkward and clumsy, bumping into objects, dropping things, falling over are all **possible** signs.
 
-Being generally awkward and clumsy, bumping into objects, drop things, fall over are other **possible** signs.
-
-Additional problems include:
-
-- Concentration
-- Difficulty following instructions and copying information
-- Difficulty organising
-- Slow to pick up new skills
-- Difficulty making friends
-- Behaviour problems
-- Low self-esteem
+There are many additional **problems** that can spring up.
 
 Overall not a positive list of things.
 
 I also think this is not even a complete list.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder), talks about alot of the topics covered above breaking it down into gross and fine motor skills, memory, sensory, hypotonia, developmental verbal dyspraxia (DVD) and other associated disorders and secondary consequences. It is worth a ready if you have time.
-
-There is alot to unpack here and go into more detail about but for a first entry into the topic, I think this is an overall good outline of what I beleive dyspraxia is or can be.
+[Wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder), talks about alot of the topics covered above breaking it down into gross and fine motor skills, memory, sensory, hypotonia, developmental verbal dyspraxia (DVD) and other associated disorders and secondary consequences. It is worth a read if you have the time.
 
 It is very easy to say that having or being dyspraxic is a negative thing. But it is important to say that we can build systems to manage all of these issues and most of the time you wouldn't even notice these problems unless you watch us closely.
 
-<!-- can dyspraxia be a super power? -->
+Common strengths we have, are normally within the areas of leadership, empathy, strategy and problem solving.
+
+There is a lot to unpack here and go into more detail about but for a first entry into the topic, I think this is an overall good outline of what I believe dyspraxia is or can be.
 
 ---
 
-"I'm not clumsy. It's just the floor hates me, the tables and charis are bullies & the wall gets in the way."
+"I'm not clumsy. It's just the floor hates me, the tables and chairs are bullies & the wall gets in the way."
 
 ---
 
@@ -94,6 +70,7 @@ It is very easy to say that having or being dyspraxic is a negative thing. But i
 - [Apraxia; Wikipedia](https://en.wikipedia.org/wiki/Apraxia)
 - [DCD, Dyspraxia Symptoms; NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/symptoms/)
 - [DCD; Wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder)
+- [What is Dyspraxia](https://exceptionalindividuals.com/neurodiversity/what-is-dyspraxia/)
 
 <!-- 
 - [DCD, Dyspraxia; NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/)
