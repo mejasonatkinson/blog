@@ -1,6 +1,6 @@
 ---
 title: "Study Less Study Smart."
-date: 2023-05-12T13:00:00+01:00
+date: 2023-05-12T12:00:00+01:00
 draft: false
 ---
 
