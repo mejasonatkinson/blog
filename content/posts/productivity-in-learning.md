@@ -42,9 +42,9 @@ Does this show productivity?
 
 From a employers point of view this could definitely be scene as such. 
 
-But really all it tells the viewer is that the programmer has commited alot of code and that code has been added to the main branch of the given repos they have contributed too. It tells you nothing about qualify of the code they have written.
+But really all it tells the viewer is that the programmer has commited alot of code and that code has been added to the main branch of the given repos they have contributed too. It tells you nothing about the qualify of the code they have written.
 
-Going back to my previous post on social comparision, this could also lead developers and programmers to feel sad or frustrated effecting there self-esteem and possibly there performance in producing high quality code.
+Going back to my previous post on [social comparision](https://blog.jasonatkinson.co.uk/posts/the-og-social-comparers/), this could also lead developers and programmers to feel sad or frustrated effecting there self-esteem and possibly there performance in producing high quality code.
 
 So how can we effectily messure productivity in this instances? It's difficult to say... But is something I wish to tackle.
 
