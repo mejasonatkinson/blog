@@ -30,8 +30,6 @@ DCD stands for Developmental co-ordination disorder and comes with the added bon
 
 What comes to mind when you think about co-ordination?
 
-It covers alot more than you might think.
-
 [NHS](https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/symptoms/) List Symptoms, by developmental age.
 
 Infants Symptoms include:
@@ -45,17 +43,13 @@ Being generally awkward and clumsy, bumping into objects, dropping things, falli
 
 There are many additional **problems** that can spring up.
 
-Overall not a positive list of things.
-
-I also think this is not even a complete list.
-
 [Wikipedia](https://en.wikipedia.org/wiki/Developmental_coordination_disorder), talks about alot of the topics covered above breaking it down into gross and fine motor skills, memory, sensory, hypotonia, developmental verbal dyspraxia (DVD) and other associated disorders and secondary consequences. It is worth a read if you have the time.
 
 It is very easy to say that having or being dyspraxic is a negative thing. But it is important to say that we can build systems to manage all of these issues and most of the time you wouldn't even notice these problems unless you watch us closely.
 
-Common strengths we have, are normally within the areas of leadership, empathy, strategy and problem solving.
+Common strengths we have, are normally within the areas of leadership, empathy, strategy and problem solving. Why these are seen as strengths, I would like to explore more at some point.
 
-There is a lot to unpack here and go into more detail about but for a first entry into the topic, I think this is an overall good outline of what I believe dyspraxia is or can be.
+There is a lot to unpack here and go into more detail about but for a first entry into the topic, I think this is an overall good outline of what I believe dyspraxia is or can be at present.
 
 ---
 
