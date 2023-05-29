@@ -10,8 +10,6 @@ This blog post marks my tenth entry in this latest encarnation of my endever to 
 
 Ever since, secondary school I have tried to follow a set structure when it comes to writing non-fiction. 
 
-## PEC
-
 PEC, stands for Point, Evidence, Comment. This is also very similar to PEE, which stands for Point, Evidence, Explain.
 
 ### P
@@ -65,6 +63,6 @@ Thanks you for spending the time to read my rabblings, I hope they will get bett
 
 ---
 
-### Resources:
+<!-- ### Resources:
 
-- []()
+- []() -->
