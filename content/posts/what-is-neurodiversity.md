@@ -4,6 +4,8 @@ date: 2023-03-31T19:30:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #2 -->
+
 In my first post I mentioned that I am dyslexic and have dyspraxia; so, I thought the best topic to tackle first is to talk about the wider context these things belong too.
 
 What is neurodiversity?
@@ -25,7 +27,7 @@ I want to investigate and write about all of these and more, at some point. It's
 
 One of the above items I want to quickly expand on, is what "Acquired Neurodiversity" is?
 
-This covers a huge range of neurological conditions including but not limited to: Neurodegenerative disorders, such as Parkinson’s disease, Cerebral Palsy and Alzheimer’s disease. As well as Neurodiverse conditions acquired via Strokes, and other types of brain damage, either by an accident.
+This covers a huge range of neurological conditions including but not limited to: Neurodegenerative disorders, such as Parkinson’s disease, Cerebral Palsy and Alzheimer’s disease. As well as Neurodiverse conditions acquired via Strokes, and other types of brain, spinal damage.
 
 ---
 

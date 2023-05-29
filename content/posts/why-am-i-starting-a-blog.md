@@ -4,6 +4,8 @@ date: 2023-03-24T18:30:00Z
 draft: false
 ---
 
+<!-- Blog Post #1 -->
+
 For my first post, I thought I would start with the most pressing of questions.
 
 I have started many blogs over the past 2 decades, ranging from, tracking my summer holiday project; to keeping a blog as my sketchbook throughout the 3 years of my bachelor’s degree; and even as 30-day mini challenge, where I posted every day for 30 days, just to see if I could.

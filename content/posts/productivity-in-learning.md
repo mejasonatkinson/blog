@@ -4,6 +4,8 @@ date: 2023-05-05T13:00:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #7 -->
+
 I recently saw this comic, where a character is sitting at a computer talking to them self, saying how busy they are. Then another character comes along and asks "But are you productive?" and the first character replies "great! Now I’m busy and miserable". 
 
 This got me thinking. What is it about productivity that makes us miserable, sad, or even frustrated? 

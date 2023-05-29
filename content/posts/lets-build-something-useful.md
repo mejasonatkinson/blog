@@ -4,6 +4,8 @@ date: 2023-04-21T13:00:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #5 -->
+
 So far, I have talked about what neurodiversity is, what dyslexia is and a bit of a side journey into my thoughts on how the english alphabetical language plays a role in learning and why that makes it hard for people with dyslexia to learn.
 
 What can we do about it?

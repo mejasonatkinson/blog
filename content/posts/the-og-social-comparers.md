@@ -4,6 +4,8 @@ date: 2023-04-28T12:00:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #6 -->
+
 In the last 2 decades, there has been an increase in awareness of social comparison or to give its proper name social comparison theory. This is due, in no small part because of social media platforms. These platforms make it easier than ever to compare ourselves to the "ideal", this is mostly always done in what is called a upward comparison.
 
 Upwards comparison is the process of comparing ourselves, consciously or subconsciously to individuals or groups that we perceive as superior or better than ourselves, in some cases this leads to self-improvement to try and become an equal or better than the person we are comparing ourselves too. But the majority of upward comparisons are made when the individual is feeling lesser and therefore evoke a negative reaction, effecting our self-esteem.

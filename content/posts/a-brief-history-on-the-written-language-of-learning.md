@@ -4,6 +4,8 @@ date: 2023-04-14T15:30:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #4 -->
+
 In the early days of humankind, before the invention of reading or writing, there was language and with language came storytelling. The purpose of this activity was to share, to teach, to instil a warning or simply to entertain. This was a communal activity, that could be done on an individual basis, one person talking, one person listening: or on a multi person basis, one person talking, many people listening. But this kind of teaching requires the listeners to be present; or for listeners, to remember everything which was spoken and resight it to more people. Our minds might be amazing, but they are not capable of such feats. To help with this process we started making cave drawings, stone carvings and more.
 
 These pictographic representations, over time formed one the primary writing systems, called logographics. Probably the earliest, and most well-known logographical written languages would-be Egyptian hieroglyphics.

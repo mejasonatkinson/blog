@@ -4,6 +4,8 @@ date: 2023-04-07T16:00:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #3 -->
+
 This is my second attempt of writing this. I stopped and deleted my first attempt when I saw that it had reached over a thousand words, and I couldn’t see an end in sight. The problem is I have a lot to say on the topic. But I also want to write this blog in such a way that each post is bitesize, and easily digestible. And I guess in a way I want to write it in a format that helps me organise my ideas, to better understand myself, but also for others to better understand what it is like to be dyslexic.
 
 So, in basic terms, what is dyslexia… 

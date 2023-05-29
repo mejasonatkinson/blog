@@ -4,6 +4,8 @@ date: 2023-05-12T12:00:00+01:00
 draft: false
 ---
 
+<!-- Blog Post #8 -->
+
 This is a little bit different from my previous posts because I wanted to start tackling the topic of how can we be more productive learners.
 
 I think understanding how we learn is key to figuring out how to be a productive learner.
