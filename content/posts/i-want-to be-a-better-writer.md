@@ -1,6 +1,6 @@
 ---
 title: "I want to be a better writer"
-date: 2020-05-26T12:00:00+01:00
+date: 2023-05-26T12:00:00+01:00
 draft: false
 ---
 
