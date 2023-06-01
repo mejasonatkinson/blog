@@ -10,7 +10,7 @@ This blog post marks my tenth entry in this latest encarnation of my endever to 
 
 Ever since, secondary school I have tried to follow a set structure when it comes to writing non-fiction. 
 
-PEC, stands for Point, Evidence, Comment. This is also very similar to PEE, which stands for Point, Evidence, Explain.
+PEC, which stands for Point, Evidence, Comment.
 
 ### P
 
@@ -37,7 +37,7 @@ In the last week or two, this has even been tricky because I have been away on h
 
 I did try to write and plan my blog posts 2 to 3 weeks in advance, but due to time limitations. What used to be **pro-active** is now become **re-active**.
 
-In my first posted I stated that this blog would be themed around the topics of neurodiversity and learning.
+In my first post I stated that this blog would be themed around the topics of neurodiversity and learning.
 
 According to LinkedIn my first post had 925 views and 4 comments. The following posts, views range from 300 to 100. None of which had any comments.
 
@@ -47,13 +47,13 @@ I also link to my posts on Twitter, views vary from 5 all the way to the dizzy h
 
 Comment, is a summary of how my evidence backs up my point.
 
-In conclusion, I think it was a mistake to not set stronger, more measurable goals, however the evidence presented does seem to lean towards the fact that I have kept to my orginal promise of writing about neurodiversity and learning. However, is there an audience for this type of content? The socail analytics, seems to represent a view that the content I am creating or the way in which I am sharing or presenting my content is a problem.
+In conclusion, I think it was a mistake to not set stronger, more measurable goals, however the evidence presented does seem to lean towards the fact that I have kept to my orginal promise of writing about neurodiversity and learning. However, there is still an issue with lack of engagement, that the socail analytics shows.
 
 As some possible outcomes:
 
-- I think I should do more research into whether there is an audience for the type of content I am producing and how it is presented, and a formula for creating content.
+- I need to rethink, how I create content.
 - The way in which I share my content needs to change.
-- Setting myself critia for what a success looks like for me, will help to guide my writing.
+- Setting myself critia for what success looks like for me, will hopefully, help to guide me in future content creation.
 
 Thanks you for spending the time to read my rabblings, I hope they will get better soon.
 
