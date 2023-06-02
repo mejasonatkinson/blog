@@ -6,6 +6,12 @@ draft: false
 
 <!-- Blog Post #11 -->
 
+Let's talk.
+
+In my last post, I said I need to set myself critia for what success looks like for me to help guide me, in future content creation.
+
+But how do I do that?
+
 SMART Goals, stands for Specific, Measurable, Attainable, Realistic and Time-bound.
 
 <!-- https://www.atlassian.com/blog/productivity/how-to-write-smart-goals -->
