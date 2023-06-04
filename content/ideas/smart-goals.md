@@ -1,7 +1,7 @@
 ---
 title: "Smart Goals"
 date: 2023-06-02T12:00:00+01:00
-draft: false
+draft: true
 ---
 
 <!-- Blog Post #11 -->
