@@ -16,7 +16,11 @@ The object of a person's ambition or effort; an aim or desired result.
 The word 'plan' is defined as (noun)
 A detailed proposal for doing or achieving something.
 
-So what are my plans for this blog. As I said previously I set out with the goal to make this a pro-active blog, in terms of having content prepared and planned out weeks in advice, for me this was 1 week in advance; but that meant any distractions to my schedule could shift my writing to be re-active, putting myself under unnecessary pressure. 
+So why do people say: "A goal without a plan is only a dream"?
+
+I feel lik I'm getting very side-tracked here. 
+
+So what are my plans for this blog. As I said previously I set out with the goal to make this a pro-active blog, in terms of having content prepared and planned out weeks in advance, for me this was 1 week in advance; but that meant any distractions to my schedule could shift my writing to be re-active, putting myself under unnecessary pressure. 
 
 So, my first new plan, is to, have prepared atleast 4 blog posts in advance, with the continued weekly posting schedule.
 
@@ -25,10 +29,10 @@ Measurable: 4.
 Attainable: Yes.
 Time Frame: Weekly.
 
-My second new plan, is to gather resources and research in advanced, by spending a miumium of 2 evenings a week, looking for potential talking points and reviewing what similar blogs are also writing about with the aim to find a miumium of 2 quotes an evening.
+My second new plan, is to gather resources and research in advanced, by spending a miumium of 2 evenings a week, looking for potential talking points and reviewing what similar blogs are also writing about with the aim to find a miumium of 2 quotes an evening that I can use.
 
 Specific: Gather resources and research.
-Measurable: 2 quotes, a evening
+Measurable: 2 quotes, a evening.
 Attainable: Yes.
 Time Frame: Twice Weekly.
 
@@ -36,9 +40,10 @@ My third plan, is to measure each blog post against critia that I create for wha
 
 This is in its current state; not very Specific or Measurable, atleast until I think about the critia, its not Attainable, and has no Time Frame. So this plan has alot of room for improvement. 
 
-I have alot of goals currently, but none of them are going anywhere or going to be completed because I don't have a plan that is specific enought, but if I did have a specific enough plan... I wouldn't be setting it as a goal. I would just be doing it! 
+I have alot more goals or drams currently, but none of them are going anywhere or going to be completed because I don't have a plan that is specific enought, but if I did have a specific enough plan... I wouldn't be setting it as a goal. I would just be doing it! 
 
-As nike's slogan says "Just do it!" Thats what I hope to do here.
+
+As nike's slogan says "Just do it!" and Thats what I hope to do here.
 
 ---
 
