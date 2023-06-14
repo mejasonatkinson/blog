@@ -4,7 +4,7 @@ date: 2023-06-09T13:00:00+01:00
 draft: false
 ---
 
-<!-- Blog Post #13 -->
+<!-- Blog Post #13 --> 
 
 What is my inspiration? Who do I follow, Why do I follow them? How do they approach writing or doing what they do... All good questions. And some of which I hope to answer here.
 
